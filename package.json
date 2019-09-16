@@ -1,0 +1,27 @@
+{
+  "name": "assignment-5-kaminipremprakash",
+  "version": "1.0.0",
+  "description": "Implemented algorithms like Binary Search, Bubble Sort and function to check if the a string is Palindrome or not using Javascript.",
+  "main": "index.js",
+  "dependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint app",
+    "doc": "esdoc -c esdoc.json",
+    "postinstall": "npm run build && npm run doc"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-20z19/assignment-5-KaminiPremPrakash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2019/assignment-5-KaminiPremPrakash/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2019/assignment-5-KaminiPremPrakash#readme"
+}
